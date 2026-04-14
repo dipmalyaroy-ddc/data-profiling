@@ -1,0 +1,36 @@
+Column Name,Canonical Name,Total Count,Variations Found,Excel Row Numbers
+<Name>,John Watling's-Heartbeat-Brand,4,John Watling's-Heartbeat-Brand,"9, 10, 11, 12"
+<Name>,Jozi-Heartbeat-Brand,1,Jozi-Heartbeat-Brand,2
+<Name>,Joklakrap Brennivin-Heartbeat-Brand,1,Joklakrap Brennivin-Heartbeat-Brand,3
+<Name>,Jon Mark And Robbos-Heartbeat-Brand,1,Jon Mark And Robbos-Heartbeat-Brand,4
+<Name>,John Ross-Heartbeat-Brand,1,John Ross-Heartbeat-Brand,5
+<Name>,John Black-Heartbeat-Brand,1,John Black-Heartbeat-Brand,6
+<Name>,Johvikaviin-Heartbeat-Brand,1,Johvikaviin-Heartbeat-Brand,7
+<Name>,JM Aged Rum-Heartbeat-Brand,1,JM Aged Rum-Heartbeat-Brand,8
+<Object Type Name>,PMDM Usecase Brand,11,PMDM Usecase Brand,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
+Brand Name,Jozi,2,Jozi | jozzi,"2, 11"
+Brand Name,Johnwalting,2,Johnwalting | Jonwalting,"10, 12"
+Brand Name,Joklakrap Brennivin,1,Joklakrap Brennivin,3
+Brand Name,Jon Mark And Robbos,1,Jon Mark And Robbos,4
+Brand Name,John Ross,1,John Ross,5
+Brand Name,John Black,1,John Black,6
+Brand Name,Johvikaviin,1,Johvikaviin,7
+Brand Name,JM Aged Rum,1,JM Aged Rum,8
+Brand Name,John Watling's,1,John Watling's,9
+FRBPHL0_CategoryI,Spirit incl RTD,7,Spirit incl RTD,"3, 6, 7, 9, 10, 11, 12"
+FRBPHL1_CategoryII,Spirit,7,Spirit,"3, 6, 7, 9, 10, 11, 12"
+FRBPHL2_CategoryIII,Rum,4,Rum,"9, 10, 11, 12"
+FRBPHL2_CategoryIII,Other Spirits,1,Other Spirits,3
+FRBPHL2_CategoryIII,Whiskey,1,Whiskey,6
+FRBPHL2_CategoryIII,Vodka,1,Vodka,7
+FRBPHL3_CategoryIV,Rum,4,Rum,"9, 10, 11, 12"
+FRBPHL3_CategoryIV,Other Spirits,1,Other Spirits,3
+FRBPHL3_CategoryIV,Scotch,1,Scotch,6
+FRBPHL3_CategoryIV,Vodka,1,Vodka,7
+FRBPHL4_BrandFamily,Jozi,1,Jozi,2
+FRBPHL4_BrandFamily,Joklakrap Brennivin,1,Joklakrap Brennivin,3
+FRBPHL4_BrandFamily,Jon Mark And Robbos,1,Jon Mark And Robbos,4
+FRBPHL4_BrandFamily,John Ross,1,John Ross,5
+FRBPHL4_BrandFamily,Johvikaviin,1,Johvikaviin,7
+PMDM_HB_Object_Type,HB Brand,11,HB Brand,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
+Usecase Variant,Heartbeat,11,Heartbeat,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
